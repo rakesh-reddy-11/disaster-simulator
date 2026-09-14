@@ -2,6 +2,8 @@
 
 A collaborative multi-agent disaster response simulator built as a browser-based operations dashboard. The project models emergency coordination for fire, medical, and police departments using a live map, incident tracking, vehicle dispatch, agent communication, and social-media-style report ingestion.
 
+![AEGIS Response dashboard preview](screenshot.png)
+
 ## Features
 
 - Live disaster reporting from simulated social media posts
